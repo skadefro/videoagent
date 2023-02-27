@@ -1,0 +1,14 @@
+{
+  "name": "videoagent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "updateapidev": "npm uninstall @openiap/nodeapi && npm i openiap/nodeapi",
+    "updateapi": "npm uninstall @openiap/nodeapi && npm i @openiap/nodeapi"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
